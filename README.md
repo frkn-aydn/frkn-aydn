@@ -1,15 +1,52 @@
-### Hi there 👋, Furkan AYDIN ![Profile views](https://gpvc.arturio.dev/frkn-aydn)  
-#### Full Stack Developer
-I'm Furkan from Turkey, and I do front-end and back-end development. I really enjoy learning new technologies and frameworks like Vue and React, as well as working golang and nodejs. 
+<h1 align="center">
+  <b>Furkan AYDIN</b>
+</h1>
 
-I also enjoy thinking about UI/UX designs in general. You can check out my twitter at https://twitter.com/_frknaydn
+Heya! I'm Furkan AYDIN. I do front-end and back-end development. I really enjoy learning new technologies and frameworks like Vue and React, as well as working golang and nodejs.
 
-#### Skills and Experience
-* HTML, CSS, JS
-* Vue / React
-* Golang / Nodejs
-* Mongodb / SQL
+<br>
 
-- 🔭 I’m currently working on Community Inviter 
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Golang-37aed9?style=for-the-badge&logo=go&logoColor=37aed9&labelColor=282828">
+</div>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/frkn-aydn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkanaydin94/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/developeraydin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/furqan.aydn//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_frknaydn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://furkanaydin.com/)  
+```go
+class Person {
+  constructor(name) {
+    this.name = "Furkan AYDIN";
+    this.username = "frkn-aydn";
+    this.location = "Istanbul, Turkey";
+    this.twitter = "_frknaydn";
+    this.website = "https://furkanaydin.com/"
+  }
+
+  introduceSelf() {
+    console.log(`Heya! I'm ${this.name}. I do front-end and back-end development. I really enjoy learning new technologies and frameworks like Vue and React, as well as working golang and nodejs.`);
+  }
+}
+```
+<br/><br/>
+<div align="center">
+  <a href="https://open.spotify.com/user/31rkrtu6rjcgwmtrctga3fzdr62u">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://furkanaydin.com/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=frkn-aydn&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=frkn-aydn&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Furkan AYDIN' Activity Graph](https://activity-graph.herokuapp.com/graph?username=frkn-aydn&custom_title=Furkan%20AYDIN's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://furkanaydin.com/)
