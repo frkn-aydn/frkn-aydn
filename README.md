@@ -31,22 +31,13 @@ class Person {
 }
 ```
 <br/><br/>
-<div align="center">
-  <a href="https://open.spotify.com/user/31rkrtu6rjcgwmtrctga3fzdr62u">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 
 ## My Statistics
-
 <br/>
 <p align="left">
   <a href="https://furkanaydin.com/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=frkn-aydn&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=frkn-aydn&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=frkn-aydn&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
-
-[![Furkan AYDIN' Activity Graph](https://activity-graph.herokuapp.com/graph?username=frkn-aydn&custom_title=Furkan%20AYDIN's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://furkanaydin.com/)
